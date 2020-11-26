@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AutoLotFinal":  "Data Source=(localdb)\\mssqllocaldb;Integrated Security=true;Initial Catalog=AutoLotFinal;"
+  }
+}
